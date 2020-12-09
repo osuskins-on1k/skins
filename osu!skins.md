@@ -1,8 +1,6 @@
-# RyuK super rad main skins compilation
+# -on1k- main skins
 
-# If a link is down let @snowedcoffee or @mzruu know.
-
-# Some of the skins RyuK uses might be private or unfinished and may not be listed. 
+# The list will continue to grow
 
 # [-        # WhiteCat (1.0) 『CK』 #-](https://www.dropbox.com/s/znva6iazp345nny/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20%281.0%29%20%E3%80%8ECK%E3%80%8F%20%23-.osk?dl=0)
 ![](https://sun9-67.userapi.com/impf/LVnVaxoRxVkMaZkwCEVL6Rvz99l7lauPOpTDDg/-10Imz1EGzc.jpg?size=1920x1080&quality=96&proxy=1&sign=955df643f808ceb64fef6c6a0d52835f&type=album)
